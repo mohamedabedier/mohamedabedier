@@ -9,7 +9,7 @@ I transform complex, raw data into clear, actionable insights. I'm passionate ab
 - 🌱 I’m currently hunting and analyzing complex datasets (1M+ rows) in sectors like real estate and startup funding to practice handling missing data and advanced preprocessing.
 - 💡 I specialize in taking the guesswork out of decision-making using **Python, SQL, Power BI, and Tableau**.
 - 💬 Ask me about: **Data Cleaning, Interactive Dashboards, and SQL Queries**.
-- 📫 How to reach me: **[your.email@gmail.com](mailto:your.email@gmail.com)**
+- 📫 How to reach me: **[mohamedabedier@gmail.com](mailto:mohamedabedier@gmail.com)**
 
 ---
 
@@ -28,9 +28,9 @@ I transform complex, raw data into clear, actionable insights. I'm passionate ab
 
 ### 🚀 Featured Data Projects
 
-* 🛒 **[Sales Transactions Dashboard](#)**: Analyzed sales data to uncover purchasing trends and built an interactive dashboard to track KPIs.
-* 🎓 **[YAT Center Revenue Tracking](#)**: Processed and visualized revenue streams to help optimize educational business strategies.
-* 🎮 **[Gaming & Mental Health Analysis](#)**: Conducted EDA to explore the correlation between gaming habits and mental health indicators.
+* 🛒 **[Sales inventory analysis](https://github.com/mohamedabedier/sales-inventory-analysis)**: Analyzed sales data to uncover purchasing trends and built an interactive dashboard to track KPIs.
+* 📈 **[Sales performance analysis](https://github.com/mohamedabedier/sales-performance-analysis)**: Analyzed sales performance metrics to identify revenue drivers and improve overall business strategies.
+* 🎮 **[Gaming & Mental Health Analysis](https://github.com/mohamedabedier/Gaming-Mental-Health-Analysis)**: Conducted EDA to explore the correlation between gaming habits and mental health indicators.
 
 *(Click on any project to see the full code, dataset, and dashboard screenshots!)*
 
@@ -39,13 +39,26 @@ I transform complex, raw data into clear, actionable insights. I'm passionate ab
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedabedier&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
-### 🔗 Connect with me
+### 🔗 Let's unlock your data
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="LINK_TO_YOUR_PORTFOLIO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portfolio" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mohamedabedier" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" />
+  </a>
+  
+  <a href="https://wa.me/201030637989" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" height="40" width="40" />
+  </a>
+
+  <a href="mailto:mohamedabedier@gmail.com" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="40" width="40" />
+  </a>
+
+  <a href="[حط لينك البورتفوليو هنا]" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="Portfolio" height="40" width="40" />
+  </a>
 </p>
